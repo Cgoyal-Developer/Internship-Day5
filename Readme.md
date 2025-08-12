@@ -17,6 +17,14 @@ It covers:
 - **Docker** (container runtime)
 - **AWS EC2** (Ubuntu 20.04+ instance)
 
+![Start Minikube](screenshots/start-minikube.png)
+![Pods after deployment](screenshots/kubectl-get-pods.png)
+![Service details](screenshots/kubectl-get-svc.png)
+![Scaling pods](screenshots/kubectl-scale.png)
+![Browser access](screenshots/browser-access.png)
+![Pod logs](screenshots/kubectl-logs.png)
+
+
 ---
 
 ## 🚀 Steps to Reproduce
