@@ -1,4 +1,4 @@
-# Kubernetes App Deployment with Minikube (AWS EC2 Ubuntu)
+# Kubernetes App Deployment with Minikube
 
 ## 📌 Project Overview
 This project demonstrates deploying and managing applications in Kubernetes using **Minikube** on an AWS EC2 Ubuntu instance.  
